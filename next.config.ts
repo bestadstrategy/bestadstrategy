@@ -6,6 +6,19 @@ const nextConfig: NextConfig = {
 	images: {
 		remotePatterns: [{ hostname: "**" }],
 	},
+	async headers() {
+		return [
+			{
+				source: "/:path*",
+				headers: [
+					{
+						key: "Cross-Origin-Opener-Policy",
+						value: "same-origin-allow-popups",
+					},
+				],
+			},
+		];
+	},
 };
 
 export default withWhopAppConfig(nextConfig);
