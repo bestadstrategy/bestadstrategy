@@ -7,7 +7,7 @@ export default function Page() {
 			<div className="max-w-2xl mx-auto rounded-3xl bg-gray-a2 p-4 border border-gray-a4">
 				<div className="text-center mt-8 mb-12">
 					<h1 className="text-8 font-bold text-gray-12 mb-4">
-						Welcome to Your Whop App
+						bestadstrategy
 					</h1>
 					<p className="text-4 text-gray-10">
 						Learn how to build your application on our docs

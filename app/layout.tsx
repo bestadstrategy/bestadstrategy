@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: "Whop App",
-	description: "My Whop App",
+	title: "bestadstrategy",
+	description: "bestadstrategy",
 };
 
 export default function RootLayout({

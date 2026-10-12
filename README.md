@@ -1,6 +1,6 @@
-This is a template for a whop app built in NextJS. Fork it and keep the parts you need for your app.
+bestadstrategy is a Whop app built with Next.js, started from the [Whop Next.js app template](https://github.com/whopio/whop-nextjs-app-template).
 
-# Whop NextJS App Template
+# bestadstrategy
 
 To run this project:
 
